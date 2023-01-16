@@ -260,11 +260,27 @@
   </url>
   
   <url>
+    <loc>/future/example/</loc>
+  </url>
+  
+  <url>
+    <loc>/future/example/example1/</loc>
+  </url>
+  
+  <url>
+    <loc>/future/example/example2/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/future/</loc>
   </url>
   
 </urlset>

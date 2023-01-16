@@ -344,5 +344,21 @@ Three
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/future/example/example1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/future/example/example1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/future/example/example2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/future/example/example2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
